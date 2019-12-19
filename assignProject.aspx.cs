@@ -81,5 +81,10 @@ namespace FYPmanager
             projectRadioBtn.ClearSelection();
             disp_data();
         }
+
+        protected void assignTable_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
